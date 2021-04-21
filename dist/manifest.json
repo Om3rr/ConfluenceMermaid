@@ -1,13 +1,13 @@
 {
-    "name": "TS/R/WP Chrome Extension",
-    "version": "0.0.1",
+    "name": "Mermaid + Confluence 💘",
+    "version": "0.0.3",
     "manifest_version": 2,
-    "description": "Boilerplate for a Chrome extension with TypeScript, React, and Webpack.",
-    "homepage_url": "https://duo.com/labs",
+    "description": "Chrome extension which present mermaid graphs in confluence pages..",
+    "homepage_url": "https://github.com/om3rr",
     "icons": {
-      "16": "icons/icon16.png",
-      "48": "icons/icon48.png",
-      "128": "icons/icon128.png"
+      "16": "icons/16x16.png",
+      "48": "icons/48x48.png",
+      "128": "icons/128x128.png"
     },
     "browser_action": {
       "default_title": "TSRWPCX",

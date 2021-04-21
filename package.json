@@ -21,6 +21,7 @@
     "webpack-cli": "^3.1.2"
   },
   "dependencies": {
+    "mermaid": "^8.9.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3"
   }
